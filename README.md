@@ -39,8 +39,5 @@ Open for collaborations on Projects!
 &nbsp; &nbsp;
 </p><br><br>
 
-[![Mukund's github activity graph](https://activity-graph.herokuapp.com/graph?username=mukundahire03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&langs_count=8&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="mukundahire03" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundahire03&theme=react-dark&show_icons=true&locale=en" alt="mukundahire03" />|
-|---|---|
-___
+| <a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundahire03&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
