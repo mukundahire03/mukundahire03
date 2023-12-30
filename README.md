@@ -12,7 +12,7 @@ Open for collaborations on Projects!
 </p><br>
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/mukundahire03/count.svg" />
 </p>
 
 
