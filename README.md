@@ -35,7 +35,7 @@ Open for collaborations on Projects!
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
 </p>
-<be>
+<br>
 
 <h2 align="center"> My Github Stats </h2>
 <p align="center">
@@ -45,7 +45,6 @@ Open for collaborations on Projects!
 <img src="https://github-readme-stats.vercel.app/api?username=mukundahire03&theme=react-dark&show_icons=true&locale=en" alt="mukundahire03" />
 </p>
 
-<br>
 <h2 align="center"> Connect With Me </h2>
 <p align="center">
 <a href="https://linkedin.com/in/mukundahire03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="30" width="40" /></a>
