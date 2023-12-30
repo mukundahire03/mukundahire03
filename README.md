@@ -1,44 +1,44 @@
-# Hi there! 👋
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.png" alt="Banner" />
+</p>
 
-I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location].
+# Hi there! 👋 I'm [Your Name]
 
-🌱 I'm currently learning [Current Learning Focus].
+I'm a passionate [Your Profession/Interest] from [Your Location]. 🚀
 
-👯 I’m looking to collaborate on [Projects or Interests].
-
-🤔 I’m looking for help with [Specific Topic/Challenge].
-
-💬 Ask me about [Your Expertise].
-
-📫 How to reach me: [Your Email] | [Your Personal Website] | [Your LinkedIn Profile]
+🌱 Currently learning [Current Learning Focus].<br/>
+👯 Looking to collaborate on [Projects or Interests].<br/>
+🤔 Seeking help with [Specific Topic/Challenge].<br/>
+💬 Ask me about [Your Expertise].<br/>
+📫 Reach me at [Your Email] | [Your LinkedIn] | [Your Website]
 
 ⚡ Fun fact: [Random Fun Fact about Yourself]
 
 ---
 
-## Skills and Technologies
+## 🚀 Skills and Technologies
 
-- 💻 [Skill or Technology #1]
-- 💻 [Skill or Technology #2]
-- 💻 [Skill or Technology #3]
-
----
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![Skill or Technology #1](https://img.shields.io/badge/-Skill_or_Technology_1-brightgreen)
+![Skill or Technology #2](https://img.shields.io/badge/-Skill_or_Technology_2-blueviolet)
+![Skill or Technology #3](https://img.shields.io/badge/-Skill_or_Technology_3-orange)
 
 ---
 
-## Recent Projects
+## 📊 GitHub Stats
 
-- 🚀 [Project #1](Link to Project)
-- 🚀 [Project #2](Link to Project)
-- 🚀 [Project #3](Link to Project)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## Connect with Me
+## 🚀 Recent Projects
+
+- [Project #1](Link to Project)
+- [Project #2](Link to Project)
+- [Project #3](Link to Project)
+
+---
+
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourusername)
