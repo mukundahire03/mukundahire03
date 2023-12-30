@@ -9,9 +9,12 @@
 A passionate software engineer from Pune.<br>
 Currently mastering B.E in Information Technology. <br> 
 Open for collaborations on Projects!
+</p><br>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mukundahire03&label=Profile%20Views&theme=react-dark&style=plastic" alt="MukundAhire" /> </p>
 
 <h2 align="center"> Language & Tools </h2>
 
