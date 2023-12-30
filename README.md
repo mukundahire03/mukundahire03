@@ -31,13 +31,13 @@ Open for collaborations on Projects!
 &nbsp; &nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
-</p><br>
-
-<h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
-<p align="center">
-<a href="https://linkedin.com/in/mukundahire03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="30" width="40" /></a>
-&nbsp; &nbsp;
-</p><br><br>
+</p><be>
 
 | <a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundahire03&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<br>
+<h2 align=""> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
+<p align="">
+<a href="https://linkedin.com/in/mukundahire03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="30" width="40" /></a>
+&nbsp; &nbsp;
+</p><br><br>
