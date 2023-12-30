@@ -13,9 +13,9 @@ Open for collaborations on Projects!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukundahire03&label=Profile%20Views&theme=react-dark&style=plastic" alt="MukundAhire" /> </p>
 
-<h2 align=""> Language & Tools </h2>
+<h2 align="center"> Language & Tools </h2>
 
-<p align=""> 
+<p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
@@ -32,7 +32,9 @@ Open for collaborations on Projects!
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 &nbsp; &nbsp;
 </p>
-<br>
+<be>
+
+<h2 align="center"> My Github Stats </h2>
 
 <a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundahire03&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> <br>
 <a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&layout=compact&theme=buefy&hide_border=true" /></a>
