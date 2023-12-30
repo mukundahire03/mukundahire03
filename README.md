@@ -1,49 +1,46 @@
+<p align="center"> <img src="https://github.com/bhaumikmaan/bhaumikmaan/blob/main/banner.png" /> </p>
+<h1 align="center">HEY THERE, DEVELOPER'S! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px"></h1>
+
+<div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=26&font=Times+New+Roman&center=true&lines=Hey!+This+is+Mukund+Ahire;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
+</div> 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.png" alt="Banner" />
+I’m a Sophomore in Information Technology.<br>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> I enjoy learning new things. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> <br> 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Looking to work on Projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
 </p>
 
-# Hello, fellow coders! 👋 I'm [Your Name]
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mukundahire03&label=Profile%20Views&theme=react-dark&style=plastic" alt="MukundAhire" /> </p>
 
-A passionate software engineer from [Your Location]. 🚀
+<h2 align="center"><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /> Language & Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="25px" /></h2>
 
-🌱 Currently mastering [Current Learning Focus].<br/>
-💼 Working as a [Your Job Title] at [Your Company].<br/>
-👯 Open for collaborations on [Projects or Interests].<br/>
-💬 Let's discuss [Your Favorite Tech/Programming Language].<br/>
-📫 Reach me at [Your Email] | [Your LinkedIn] | [Your Website]
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
+</p><br>
 
-⚡ Fun fact: [Random Fun Fact about Coding or Tech]
+<h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h2>
+<p align="center">
+<a href="https://linkedin.com/in/mukundahire03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="30" width="40" /></a>
+&nbsp; &nbsp;
+</p><br><br>
 
----
+[![Mukund's github activity graph](https://activity-graph.herokuapp.com/graph?username=mukundahire03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🔧 Technologies & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🚀 Recent Projects
-
-- [Project #1](Link to Project)
-- [Project #2](Link to Project)
-- [Project #3](Link to Project)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&langs_count=8&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="mukundahire03" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundahire03&theme=react-dark&show_icons=true&locale=en" alt="mukundahire03" />|
+|---|---|
+___
