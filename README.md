@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=26&font=Times+New+Roman&center=true&lines=Hey!+This+is+Mukund+Ahire;I'm+a+Competitive+Programmer;An+Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div> 
 <p align="center">
-I’m a Sophomore in Information Technology.<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> I enjoy learning new things. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="35px"height="25px"> <br> 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px"> Looking to work on Projects <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"height="30px">
+A passionate software engineer from Pune.<br>
+Currently mastering B.E in Information Technology. <br> 
+Open for collaborations on Projects!
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukundahire03&label=Profile%20Views&theme=react-dark&style=plastic" alt="MukundAhire" /> </p>
