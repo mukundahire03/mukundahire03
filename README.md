@@ -35,8 +35,9 @@ Open for collaborations on Projects!
 <be>
 
 <h2 align="center"> My Github Stats </h2>
-<a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api username=mukundahire03&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mukund's github stats" /></a>
-<a href="https://github.com/mukundahire03/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&layout=compact&theme=buefy&hide_border=true" /></a> 
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&langs_count=8&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="mukundahire03" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundahire03&theme=react-dark&show_icons=true&locale=en" alt="mukundahire03" />|
+|---|---|
+___
 
 <br>
 <h2 align="center"> Connect With Me </h2>
