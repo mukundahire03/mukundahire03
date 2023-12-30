@@ -37,7 +37,7 @@ Open for collaborations on Projects!
 <h2 align="center"> My Github Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&langs_count=8&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="mukundahire03" />
-</p>
+</p><br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mukundahire03&theme=react-dark&show_icons=true&locale=en" alt="mukundahire03" />
 </p>
