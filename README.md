@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://github.com/bhaumikmaan/bhaumikmaan/blob/main/banner.png" /> </p>
-<h1 align="center">HEY THERE, DEVELOPER'S! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px"></h1>
+<h1 align="center">HEY THERE, DEVELOPER'S! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"height="30px">
+</h1> 
 <hr>
 <div align="center">  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
 
@@ -30,14 +31,26 @@ Open for collaborations on Projects!
 <hr>
 <h2 align="center"> My Github Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&langs_count=8&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="mukundahire03" />
-</p><br>
-<p align="center">
+&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundahire03&langs_count=8&theme=react-dark&show_icons=true&locale=en&layout=compact" alt="mukundahire03" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=mukundahire03&theme=react-dark&show_icons=true&locale=en" alt="mukundahire03" />
 </p>
 <hr>
+<h2 align="center"> Trophies </h2>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=mukundahire03&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+
+<hr>
 <h2 align="center"> Connect With Me </h2>
 <p align="center">
+<a href="https://instagram.com/mukundahire03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukundahire03" height="30" width="40" /></a>
+<a href="https://twitter.com/mukundahire03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukundahire03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukundahire03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukundahire03" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xyz" height="30" width="40" /></a>
+<br><br>
+<div align="center"><a href="https://www.buymeacoffee.com/mukundahire03"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mukundahire03" /></a>
+</div>
 &nbsp; &nbsp;
-</p><br><br>
+</p>
